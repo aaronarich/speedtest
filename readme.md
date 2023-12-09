@@ -1,0 +1,3 @@
+# Speedtest
+
+This is a small Ruby app that uses Speedtest.net's CLI to run speedtests to a single server, and then log the output to a JSON file. The purpose here is that I just switched ISPs (from Spectrum to T-Mobile) and would like to see how the service quality compares. This is T-Mobile's fixed wireless offering, which is supposedly rated to be very fast and consistent. So we'll see...
